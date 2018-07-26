@@ -30,7 +30,7 @@ PRESENCE
 --------
 * Twitter: [@jt_grimes](https://twitter.com/jt_grimes/)
 * Github: [jtgrimes](https://github.com/jtgrimes)
-* Blog: [poweredbybeer.com](https://poweredbybeer.com)
+* Blog: [poweredbybourbon.com](https://poweredbybourbon.com)
 * Stack Overflow: [jtgrimes](https://stackoverflow.com/users/1676/j-t-grimes)
 
 APPEARANCES
