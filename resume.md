@@ -7,6 +7,11 @@ Senior Software Engineer
 
 EXPERIENCE
 ----------
+**Shelterluv, Remote** Senior Engineer _2019 - present_
+* Instrumental in release of "Field Services" product - ?? daily users
+* Built reporting system
+* Reviewed PRs, asked good questions, wrote good code.
+
 **Deans & Homer, San Francisco** Web Developer _2007 - 2018_
 * 10 years as sole developer for company site built on raw PHP then Laravel 3, 4, and 5.
 * Managed all internal and external web properties.
