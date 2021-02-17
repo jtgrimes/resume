@@ -3,17 +3,21 @@ Jennifer (J.T.) Grimes
 
 Senior Software Engineer
 
-[hire_me@jtgrimes.com](mailto:hire_me@jtgrimes.com)
+[jtg@jtgrimes.com](mailto:jtg@jtgrimes.com)
 
 EXPERIENCE
 ----------
 **Shelterluv, Remote** Senior Engineer _2019 - present_
 * Instrumental in release of "Field Services" product - ?? daily users
-* Built reporting system
+* Built reporting system (FS)
 * Reviewed PRs, asked good questions, wrote good code.
+* Case importer
+* Archivist
+* Wrote semi-custom authentication package (based on Socialite, later Sanctum)
+* A/B testing framework (AL)
 
 **Deans & Homer, San Francisco** Web Developer _2007 - 2018_
-* 10 years as sole developer for company site built on raw PHP then Laravel 3, 4, and 5.
+* 10 years as sole fulltime developer for company site built on raw PHP then Laravel 3, 4, and 5.
 * Managed all internal and external web properties.
 * Built bridge to connect Laravel/Eloquent to DB2 database.
 * Designed (and refactored and refactored again) API to call interactive COBOL programs from PHP and return results. Learned a lot.
@@ -23,7 +27,7 @@ EXPERIENCE
 **Deans & Homer, San Francisco** Data Analyst _1996 - 2007_
 * Wrote specifications for insurance rating website, including rating, security, and data transfer.
 * Designed and built  insurance rating program in Delphi (Visual Pascal for Windows).
-* Designed, built, and maintained  file maintenance application in Delphi.
+* Designed, built, and maintained file maintenance application in Delphi.
 * Made Excel sing and dance.
 * Provided PC, network, and phone tech support for 90+ users.
 
@@ -46,7 +50,7 @@ APPEARANCES
 
 LANGUAGES
 ---------
-**Strong** PHP
+**Strong** PHP, SQL, Database design
 
 **Enough** Javascript, CSS to get by
 
@@ -59,4 +63,3 @@ Golden Gate University
 
 UC Berkeley
 * BA Statistics _1992_
-
