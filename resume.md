@@ -7,14 +7,20 @@ Senior Software Engineer
 
 EXPERIENCE
 ----------
-**Shelterluv, Remote** Senior Engineer _2019 - present_
-* Instrumental in release of "Field Services" product - ?? daily users
-* Built reporting system (FS)
+**Amava** _2021-preesent_
+*
+
+**Shelterluv, Remote** Senior Engineer _2019 - 2021_
+
+Understand "built" to mean "built, tested, released, and maintained"
+* Built API/backend for task management system for animal control officers
+* Built flexible reporting system for task management system
+* Built importer for bringing Excel spreadsheets into Field Services system
+* Built cross-system event archiving system
+* Wrote semi-custom authentication package (based on Socialite, later Sanctum, please never ask me to do this again)
+* Built A/B testing framework and data warehouse for experiment results
 * Reviewed PRs, asked good questions, wrote good code.
-* Case importer
-* Archivist
-* Wrote semi-custom authentication package (based on Socialite, later Sanctum)
-* A/B testing framework (AL)
+* Reluctantly updated front-end code when nobody else was available.
 
 **Deans & Homer, San Francisco** Web Developer _2007 - 2018_
 * 10 years as sole fulltime developer for company site built on raw PHP then Laravel 3, 4, and 5.
@@ -48,13 +54,15 @@ APPEARANCES
 
 * [The Laravel Podcast](http://www.laravelpodcast.com/74f05992) _Oct 2017_
 
-LANGUAGES
+SKILLS/LANGUAGES
 ---------
-**Strong** PHP, SQL, Database design
+**Strong**: PHP, SQL, Database design
 
-**Enough** Javascript, CSS to get by
+**Enough**: Javascript, CSS to get by
 
-**Mostly forgotten** C, Java, Delphi, Visual Basic, C#
+**Mostly forgotten**: C, Java, Delphi, Visual Basic, C#
+
+**Loathes** but can do when necessary: AWS and Ops
 
 EDUCATION
 ---------
