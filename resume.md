@@ -7,12 +7,15 @@ Senior Software Engineer
 
 EXPERIENCE
 ----------
-**Amava** _2021-preesent_
-*
+**Amava, Remote** Senior Engineer _2021-present_
+* Queen of all things database, including database design, query optimization, reporting, and ad hoc queries.
+* Backend developer on team building educational website.  I was particularly involved with payments & accounting.
+
 
 **Shelterluv, Remote** Senior Engineer _2019 - 2021_
 
-Understand "built" to mean "built, tested, released, and maintained"
+Understand "built" to mean "designed, coded, tested, released, and maintained"
+
 * Built API/backend for task management system for animal control officers
 * Built flexible reporting system for task management system
 * Built importer for bringing Excel spreadsheets into Field Services system
@@ -32,7 +35,7 @@ Understand "built" to mean "built, tested, released, and maintained"
 
 **Deans & Homer, San Francisco** Data Analyst _1996 - 2007_
 * Wrote specifications for insurance rating website, including rating, security, and data transfer.
-* Designed and built  insurance rating program in Delphi (Visual Pascal for Windows).
+* Designed and built insurance rating program in Delphi (Visual Pascal for Windows).
 * Designed, built, and maintained file maintenance application in Delphi.
 * Made Excel sing and dance.
 * Provided PC, network, and phone tech support for 90+ users.
