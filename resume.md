@@ -1,26 +1,20 @@
 Jennifer (J.T.) Grimes
 ======================
 
-Senior Software Engineer
+Staff Software Engineer
 
 [jtg@jtgrimes.com](mailto:jtg@jtgrimes.com)
 
 EXPERIENCE
 ----------
-**Amava, Remote** Senior Engineer _2021-present_
+**Amava, Remote** Staff Engineer _2021-present_
 * Queen of all things database, including database design, query optimization, reporting, and ad hoc queries.
 * Backend developer on team building educational website.  I was particularly involved with payments & accounting.
 
-
 **Shelterluv, Remote** Senior Engineer _2019 - 2021_
-
-Understand "built" to mean "designed, coded, tested, released, and maintained"
-
-* Built API/backend for task management system for animal control officers
-* Built flexible reporting system for task management system
-* Built importer for bringing Excel spreadsheets into Field Services system
-* Built cross-system event archiving system
+* Designed, coded, tested, released, and maintained API/backend for task management system for animal control officers as part of a small team. Was solely responsible for building a flexible reporting system and Excel importer. 
 * Wrote semi-custom authentication package (based on Socialite, later Sanctum, please never ask me to do this again)
+* Built cross-system event archiving system
 * Built A/B testing framework and data warehouse for experiment results
 * Reviewed PRs, asked good questions, wrote good code.
 * Reluctantly updated front-end code when nobody else was available.
