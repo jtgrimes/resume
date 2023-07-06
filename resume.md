@@ -7,10 +7,17 @@ Staff Software Engineer
 
 EXPERIENCE
 ----------
+**Misc** Consulting Engineer _2022 - present_
+
+* Developed scoring algorithm for client.
+* Built report generation system for client.
+* Troubleshot and debugged consultant code.
+* Outlined challenges with client's chosen architecture and proposed alternatives.
+
 **Amava, Remote** Staff Engineer _2021 - 2022_
 
 * Queen of all things database, including database design, query optimization, reporting, and ad hoc queries.
-* Unofficially led a team of 3 developers, implemented coding standards, and improved code quality.
+* Unofficially led a remote team of 3 developers, implemented coding standards, and improved code quality.
 * Led troubleshooting and debugging efforts across the entire code base.
 * Successfully avoided doing most front-end and operations work.
 
@@ -47,10 +54,9 @@ EXPERIENCE
 
 PRESENCE
 --------
-* Twitter: [@jt_grimes](https://twitter.com/jt_grimes/)
+* Social: [Blue Sky](https://https://bsky.app/profile/jtgrimes.bsky.social), [Mastodon](https://phpc.social/@jtgrimes)
 * Github: [jtgrimes](https://github.com/jtgrimes)
 * Blog: [poweredbybourbon.com](https://poweredbybourbon.com)
-* Stack Overflow: [jtgrimes](https://stackoverflow.com/users/1676/j-t-grimes)
 
 APPEARANCES
 -----------
