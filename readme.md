@@ -9,17 +9,16 @@ EXPERIENCE
 ----------
 **Misc** Consulting Engineer _2022 - present_
 
-* Developed scoring algorithm for client.
-* Built report generation system for client.
+* Converted manual report generation scripts into a reusable query generator.
+* Developed queries for client replacing Stripe billing to mimic data produced by Stripe.
 * Troubleshot and debugged consultant code.
-* Outlined challenges with client's chosen architecture and proposed alternatives.
+* Designed (but did not implement) a system for generating a summary "score" from multiple, unreliable inputs.
 
 **Amava, Remote** Staff Engineer _2021 - 2022_
 
 * Queen of all things database, including database design, query optimization, reporting, and ad hoc queries.
 * Unofficially led a remote team of 3 developers, implemented coding standards, and improved code quality.
 * Led troubleshooting and debugging efforts across the entire code base.
-* Successfully avoided doing most front-end and operations work.
 
 **Shelterluv, Remote** Senior Engineer _2019 - 2021_
 
@@ -56,7 +55,6 @@ PRESENCE
 --------
 * Social: [Blue Sky](https://https://bsky.app/profile/jtgrimes.bsky.social), [Mastodon](https://phpc.social/@jtgrimes)
 * Github: [jtgrimes](https://github.com/jtgrimes)
-* Blog: [poweredbybourbon.com](https://poweredbybourbon.com)
 
 APPEARANCES
 -----------
